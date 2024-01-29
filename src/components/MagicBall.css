@@ -1,0 +1,13 @@
+.magic-ball{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    border-radius: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    overflow: auto;
+    gap: 10px;
+}
